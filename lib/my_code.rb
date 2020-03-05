@@ -6,5 +6,4 @@ def map(array)
     new.push(yield(n))
   end
   new
-  
 end
