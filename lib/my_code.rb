@@ -11,7 +11,8 @@ end
 def reduce (array, sv= nil)
   if sv
     i=0
-    
+  else
+    sum
   
   
   
